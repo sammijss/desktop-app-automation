@@ -1,0 +1,9 @@
+###################################################################################################
+# This automation usages 'Cucumber' & 'Winium' Framework to automate the Windows Calculator.      #
+#												  #
+# How to use?											  #
+# 1: This is Java Maven project									  #
+# 2: Open the 'Runner.java' file								  #
+# 3: Right click and click on 'Run As' -> 'Unit Test'						  #
+# Remark: Use 100% Display Setting instead of 125% for better result.				  #
+###################################################################################################
